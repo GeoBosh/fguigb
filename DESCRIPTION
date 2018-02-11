@@ -1,0 +1,16 @@
+Package: fguigb
+Type: Package
+Title: Create GUI for functions
+Version: 0.0-2
+Date: 2013-10-20
+Author: Georgi N. Boshnakov
+Maintainer: Georgi N. Boshnakov <georgi.boshnakov@manchester.ac.uk>
+Depends:
+Imports: tcltk, fgui, gbRd
+Description: Take a function name and create a GUI window, which allows
+  the user to try various values for the arguments, see the command that
+  will be run and run it on exit. For each argument, its help text from
+  the documentation page of the function is provided.  The GUI window is
+  created with functions from package fgui by Thomas Hoffmann.
+License: GPL (>= 2)
+LazyLoad: yes

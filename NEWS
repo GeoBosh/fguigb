@@ -1,0 +1,13 @@
+Changes in Version 0.0-2
+   - small editing of the documentation of my.gui.fun.
+
+   - added a 'sep=""' at a couple of places in my.gui.fun to avoid
+     undesirable space sneeking into messages for user.
+
+Changes in Version 0.0-1
+   - Changed the DESCRIPTION file: Depends: to Imports:
+
+   - Wrote some real documentation
+
+   - Removed psi_gui
+
